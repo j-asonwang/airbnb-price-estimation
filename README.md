@@ -1,2 +1,2 @@
-# Predicting Airbnb Prices In NYC
+# Predicting Airbnb Prices In New York City
 
